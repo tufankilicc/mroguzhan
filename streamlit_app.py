@@ -6,7 +6,7 @@ def main():
     if st.button("BUTONA TIKLA"):
         st.header("AMCA BENİ AFFET".upper())
         st.balloons()
-        st.succsses("AMCAAAAAAAAAAAA BOĞULUYORUMMMMMMMM")
+        st.success("AMCAAAAAAAAAAAA BOĞULUYORUMMMMMMMM")
 
 if __name__ == "__main__":
     main()
