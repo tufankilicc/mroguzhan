@@ -7,6 +7,7 @@ def main():
         st.header("AMCA BENİ AFFET".upper())
         st.balloons()
         st.success("AMCAAAAAAAAAAAA BOĞULUYORUMMMMMMMM")
+        st.danger("AMCAAA BANA BAKLAVA VEEEEER")
 
 if __name__ == "__main__":
     main()
